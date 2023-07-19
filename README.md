@@ -1,13 +1,14 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
-
+![MasterHead](https://github.com/deven1003/deven1003/assets/89897347/2b1de803-0977-4387-9787-d52866dbcef9)
 
 <h1 align="center">Hi 👋, I'm DEVEN KALATHIYA</h1>
-<h3 align="center">Computer Science Engineering | Data science Engineering| VCET (Vasai) | 20-24'</h3>
+<h3 align="center">Computer Science Engineering(Data Science) | VCET(Vasai) | 20-24'</h3>
+<img align="right"alt="Coding" width="400" src="https://github.com/deven1003/deven1003/assets/89897347/9c513071-df53-4b0a-8ff2-55720ece0722">
+<img align="right"alt="Coding" width="400" src="https://deven1003.github.io/Deven-portfolio/">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **C++ , DSA , MEAN ,MERN**
+- 🌱 I’m currently learning **C++ , DSA ,MERN**
 
 - Join a hackathon team [Connect:](GitMeet24@gmail.com)
 
@@ -20,6 +21,9 @@
 - 📄 Know about my experiences 
 
 - ⚡ Fun fact **All I know is that I know nothing**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,10 +47,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deven1003&show_icons=true&locale=en&layout=compact" alt="deven1003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deven1003&show_icons=true&locale=en" alt="deven1003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deven1003&" alt="deven1003" /></p>
 
 
 
-<img align="" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
+
+
+
+
