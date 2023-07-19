@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+
 ![MasterHead](https://github.com/deven1003/deven1003/assets/89897347/2b1de803-0977-4387-9787-d52866dbcef9)
 
 <h1 align="center">Hi 👋, I'm DEVEN KALATHIYA</h1>
