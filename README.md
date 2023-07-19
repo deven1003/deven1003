@@ -14,8 +14,6 @@
 
 - Join a hackathon team Connect:(GitMeet24@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/deven1003?tab=projects](https://github.com/deven1003?tab=projects)
-
 - 💬 Ask me about **Algorithmic Puzzles**
 
 - 📫 How to reach me **GitMeet24@gmail.com**
