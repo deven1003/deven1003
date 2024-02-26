@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm DEVEN KALATHIYA</h1>
 <h3 align="center">Computer Science Engg.(Data Science)|CGPA-9.23|VCET(Vasai)| 20-24'</h3>
 <img align="right"alt="Coding" width="400" src="https://github.com/deven1003/deven1003/assets/89897347/9c513071-df53-4b0a-8ff2-55720ece0722">
-- 📄Portfolio:  {https://deven1003.github.io/Deven-portfolio/}
+- 📄Portfolio:  {https://deven1003.github.io/DEVEN_PORTFOLIO/}
 
 - 🔭 I’m currently working on **DSA**
 
