@@ -6,15 +6,17 @@
 <img align="right"alt="Coding" width="400" src="https://github.com/deven1003/deven1003/assets/89897347/9c513071-df53-4b0a-8ff2-55720ece0722">
 - 📄Portfolio:  {https://deven1003.github.io/DEVEN_PORTFOLIO/}
 
-- 🔭 I’m currently working on **DSA**
+🔭 Navigating Node.js adventures, battling Data Structures & Algorithms like a coding ninja!
 
-- 🌱 I’m currently learning **DSA(C++),MERN**
-  
-- Technical Skills- **javascript(ES6+),HTML,CSS,C++**
+🌱 Exploring MERN and Angular realms, hoping to build apps cooler than the flip side of the pillow!
+
+💻 JavaScript maestro (ES6+), crafting web wizardry with HTML and CSS spells.
+
+📫 Hit me up at GitMeet24@gmail.com for epic collabs and code capers!
+
+⚡ Fun fact: Like a MERN stack, I thrive on MongoDB, Express, React, and Node.js - but ask me to fix a broken coffee maker, and I might just panic like a backend developer without their debugger!
 
 - Join a hackathon team Connect:(GitMeet24@gmail.com)
-
-- 💬 Ask me about **Algorithmic Puzzles**
 
 - 📫 How to reach me **GitMeet24@gmail.com**
 
