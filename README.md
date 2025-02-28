@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm DEVEN KALATHIYA</h1>
 <h3 align="center">Backend Developer | MERN/MEAN Specialist | Web3 Enthusiast | CSE -VCET(Vasai) | GFG Rank 2 | CGPA 9.143</h3>
-<img align="right"alt="Coding" width="400" src="https://github.com/deven1003/deven1003/assets/89897347/9c513071-df53-4b0a-8ff2-55720ece0722">
+<!-- <img align="right"alt="Coding" width="400" src="https://github.com/deven1003/deven1003/assets/89897347/9c513071-df53-4b0a-8ff2-55720ece0722"> -->
 - 📄Portfolio:  {https://deven1003.github.io/DEVEN_PORTFOLIO/}
 
 🔭 Navigating Node.js adventures, battling Data Structures & Algorithms like a coding ninja!
