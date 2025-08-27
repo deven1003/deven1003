@@ -1,8 +1,6 @@
 
-![MasterHead](https://github.com/deven1003/deven1003/assets/89897347/2b1de803-0977-4387-9787-d52866dbcef9)
-
 <h1 align="center">Hi 👋, I'm DEVEN KALATHIYA</h1>
-<h3 align="center">Backend Developer | MERN/MEAN Specialist | Web3 Enthusiast | CSE -VCET(Vasai) | GFG Rank 2 | CGPA 9.143</h3>
+<h3 align="center">A passionate developer from India</h3>
 <!-- <img align="right"alt="Coding" width="400" src="https://github.com/deven1003/deven1003/assets/89897347/9c513071-df53-4b0a-8ff2-55720ece0722"> -->
 ‎🧑‍💻 1+ years of experience at Feedspot, where I worked on automation, infrastructure, and solving real-world problems across large-scale systems and internal tools.
 
