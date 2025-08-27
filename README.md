@@ -78,7 +78,7 @@
   </a>
 </div>
 
-![deven1003](gitartwork.svg)
+![deven1003](gitartbydeven.svg)
 
 
 
