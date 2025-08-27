@@ -4,24 +4,21 @@
 <h1 align="center">Hi 👋, I'm DEVEN KALATHIYA</h1>
 <h3 align="center">Backend Developer | MERN/MEAN Specialist | Web3 Enthusiast | CSE -VCET(Vasai) | GFG Rank 2 | CGPA 9.143</h3>
 <!-- <img align="right"alt="Coding" width="400" src="https://github.com/deven1003/deven1003/assets/89897347/9c513071-df53-4b0a-8ff2-55720ece0722"> -->
+‎🧑‍💻 1+ years of experience at Feedspot, where I worked on automation, infrastructure, and solving real-world problems across large-scale systems and internal tools.
 
-🔭 Navigating Node.js adventures, battling Data Structures & Algorithms like a coding ninja!
+🚀 AWS Cloud Practitioner certified.
 
-🌱 Exploring MERN and Angular realms, hoping to build apps cooler than the flip side of the pillow!
+🧠 Worked with a wide range of AWS services including EC2, S3, SES, Elastic Beanstalk, CloudWatch, IAM, VPC, Route 53, Amazon Q, and Bedrock, across both professional and personal projects.
 
-💻 JavaScript maestro (ES6+), crafting web wizardry with HTML and CSS spells.
+🕷️ Mastered web crawling and scraping, building systems that handle complex sites, dynamic content, and large-scale data collection with precision.
 
-📫 Hit me up at GitMeet24@gmail.com for epic collabs and code capers!
+⚙️ Built tools and systems using Docker, Kubernetes, Terraform, and Redis, including automated badge generators, Filament-based internal dashboards, and API-driven microservices for automation and internal tooling.
 
-⚡ Fun fact: Like a MERN stack, I thrive on MongoDB, Express, React, and Node.js - but ask me to fix a broken coffee maker, and I might just panic like a backend developer without their debugger!
+🛡️ Configured WAFs, firewall rules, and set up monitoring stacks using Zabbix, New Relic, and CloudWatch for system reliability and visibility.
 
-- Join a hackathon team Connect:(GitMeet24@gmail.com)
+🛠️ Flexible and solutions-oriented, building custom scripts and systems using Git, GitHub, and backend automation based on project requirements.
 
-- 📫 How to reach me **GitMeet24@gmail.com**
-
-- ⚡ Fun fact **All I know is that I know nothing**
-
-
+🤖 Currently exploring how AI can integrate with DevOps to solve real-world problems and how companies can adopt AI-powered CI/CD pipelines, automation, and intelligent infrastructure from day one.
 
 
 <h3 align="left">Connect with me:</h3>
