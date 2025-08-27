@@ -73,7 +73,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deven1003&show_icons=true&locale=en&layout=compact" alt="deven1003" /></p>
 <div align="center">
-  <a href="">
+  <a href="https://www.linkedin.com/in/deven-kalathiya/">
     <img src="./icon/devops.gif">
   </a>
 </div>
