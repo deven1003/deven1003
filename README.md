@@ -1,6 +1,6 @@
 
 
-<p align="left">
+<p align="center">
   <img src="./icon/hand.gif" width="28">
   Welcome to My GitHub World! , I'm DEVEN KALATHIYA
 </p>
