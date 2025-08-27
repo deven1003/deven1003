@@ -1,8 +1,8 @@
 
 
-<p align="center">
+<p align="center"> Welcome to My GitHub World! , 
   <img src="./icon/hand.gif" width="28">
-  Welcome to My GitHub World! , I'm DEVEN KALATHIYA
+  I'm <b>DEVEN KALATHIYA<b/>
 </p>
 <h3 align="center">A passionate developer from India</h3>
 <!-- <img align="right"alt="Coding" width="400" src="https://github.com/deven1003/deven1003/assets/89897347/9c513071-df53-4b0a-8ff2-55720ece0722"> -->
