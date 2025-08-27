@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi
 <a href="https://www.linkedin.com/in/deven-kalathiya/">
-<img src="icon/devenes.webp" width="400" align="right" alt="logo devenes">
+<img src="icon/hand.gif" width="400" align="right" alt="logo devenes">
 </a>
  , I'm DEVEN KALATHIYA</h1>
 <h3 align="center">A passionate developer from India</h3>
