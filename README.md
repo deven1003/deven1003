@@ -18,7 +18,7 @@
 
 🤖 Currently exploring how AI can integrate with DevOps to solve real-world problems and how companies can adopt AI-powered CI/CD pipelines, automation, and intelligent infrastructure from day one.
 
-
+![deven1003](gitartbydeven.svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/deven-kalathiya" target="blank">
@@ -78,7 +78,7 @@
   </a>
 </div>
 
-![deven1003](gitartbydeven.svg)
+
 
 
 
