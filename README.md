@@ -17,9 +17,6 @@
 🛠️ Flexible and solutions-oriented, building custom scripts and systems using Git, GitHub, and backend automation based on project requirements.
 
 🤖 Currently exploring how AI can integrate with DevOps to solve real-world problems and how companies can adopt AI-powered CI/CD pipelines, automation, and intelligent infrastructure from day one.
-
-![deven1003](gitartbydeven.svg)
-
 <div align="center">
   <a href="https://www.linkedin.com/in/deven-kalathiya/">
     <img src="/gitartbydeven.svg">
