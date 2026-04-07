@@ -4,9 +4,12 @@
   <img src="./icon/hand.gif" width="28">
   I'm <b>DEVEN KALATHIYA<b/>
 </p>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">
+  A passionate developer from India • 
+  <a href="https://deven1003.github.io/devops-portfolio/" target="_blank">Portfolio</a>
+</h3>
 <!-- <img align="right"alt="Coding" width="400" src="https://github.com/deven1003/deven1003/assets/89897347/9c513071-df53-4b0a-8ff2-55720ece0722"> -->
-‎🧑‍💻 18 Months of experience at Feedspot, where I worked on automation, infrastructure, and solving real-world problems across large-scale systems and internal tools.
+‎🧑‍💻 2 Years of experience at Feedspot, where I worked on automation, infrastructure, and solving real-world problems across large-scale systems and internal tools.
 
 🚀 AWS Cloud Practitioner certified.
 
