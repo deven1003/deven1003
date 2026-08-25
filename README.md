@@ -9,21 +9,23 @@
   <a href="https://deven1003.github.io/portfolio_dk_devops_ai/" target="_blank">Portfolio</a>
 </h3>
 <!-- <img align="right"alt="Coding" width="400" src="https://github.com/deven1003/deven1003/assets/89897347/9c513071-df53-4b0a-8ff2-55720ece0722"> -->
-‎🧑‍💻 2 Years of experience at Feedspot, where I worked on automation, infrastructure, and solving real-world problems across large-scale systems and internal tools.
+‎🧠 2+ years of experience at Feedspot, working across AI/ML, Generative AI, automation, and backend engineering to build real-world AI-powered solutions.
 
-🚀 AWS Cloud Practitioner certified.
+🤖 Hands-on experience with LLMs, RAG, foundation models, prompt engineering, semantic search, vector embeddings, and AI-powered automation.
 
-🧠 Worked with a wide range of AWS services including EC2, S3, SES, Elastic Beanstalk, CloudWatch, IAM, VPC, Route 53, Amazon Q, and Bedrock, across both professional and personal projects.
+🚀 Built an AI-powered semantic search system using OpenAI embeddings and pgvector, processing and searching across millions of podcast episodes.
 
-🕷️ Mastered web crawling and scraping, building systems that handle complex sites, dynamic content, and large-scale data collection with precision.
+🔗 Integrated AI models and platforms including Amazon Bedrock, Amazon Q, OpenAI API, OpenAI Embeddings, and Anthropic Claude API into production workflows.
 
-⚙️ Built tools and systems using Docker, Kubernetes, Terraform, and Redis, including automated badge generators, Filament-based internal dashboards, and API-driven microservices for automation and internal tooling.
+🧩 Worked with AI agents, MCP (Model Context Protocol), tool use/function calling, and agentic automation to connect AI with infrastructure, monitoring, and operational systems.
 
-🛡️ Configured WAFs, firewall rules, and set up monitoring stacks using Zabbix, New Relic, and CloudWatch for system reliability and visibility.
+⚡ Automated AI and data pipelines, improving processing efficiency by approximately 30% through AI-assisted development and automation workflows.
 
-🛠️ Flexible and solutions-oriented, building custom scripts and systems using Git, GitHub, and backend automation based on project requirements.
+☁️ Strong experience with AWS and cloud infrastructure, including EC2, S3, Lambda, IAM, VPC, CloudWatch, SageMaker, and Kendra, along with Docker, Kubernetes, Terraform, and CI/CD.
 
-🤖 Currently exploring how AI can integrate with DevOps to solve real-world problems and how companies can adopt AI-powered CI/CD pipelines, automation, and intelligent infrastructure from day one.
+🔍 Experienced with vector search technologies including pgvector, Amazon OpenSearch, Apache Solr, and Pinecone, along with large-scale data processing and web crawling systems.
+
+💡 Solutions-oriented engineer with experience combining AI/ML, cloud infrastructure, APIs, and automation to build scalable and intelligent systems.
 
 <br><br>
 
