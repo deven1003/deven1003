@@ -1,7 +1,8 @@
 <p align="center">
   <img src="./icon/hand.gif" width="28"> Hi, I'm <b>DEVEN KALATHIYA</b>
 </p>
-<h2 align="center">🤖 Agentic AI Developer</h2>
+<h2 align="center">🤖 Agentic AI & DevOps Engineer · Cloud + GenAI</h2>
+<h3 align="center">☁️ 4× AWS Certified · 🪟 1× Microsoft Certified</h3>
 <h4 align="center">
   I build AI agents that reason, use tools and get real work done: LLMs + RAG + MCP on production cloud infrastructure.<br>
   <a href="https://deven1003.github.io/portfolio_dk_devops_ai/" target="_blank">Portfolio</a> •
