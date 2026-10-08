@@ -25,6 +25,7 @@
 - 🤖 **Agentic AI developer**: I design multi-agent systems with **LangGraph, LangChain and Claude**, covering tool use / function calling, human-in-the-loop flows, planning and stateful workflows.
 - 🧩 I connect agents to real systems with **MCP (Model Context Protocol)**: infrastructure, monitoring and operational tooling.
 - 🔎 I build **RAG and semantic search** at scale. One example is an embeddings + **pgvector** search over millions of podcast episodes.
+- 🎙️ I build **voice AI**: local **Whisper** speech-to-text and an autonomous interview bot that speaks in live Google Meet calls.
 - 🔗 I've shipped production integrations with **Anthropic Claude API, OpenAI API & Embeddings, Amazon Bedrock and Amazon Q**.
 - ⚡ AI-assisted automation of data pipelines made processing about **30% more efficient**.
 - ☁️ I have a strong **Cloud & DevOps** background (AWS, Docker, Kubernetes, Terraform, CI/CD), so the agents I build actually ship.
@@ -37,6 +38,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | 🧠 [**InvestWise AI**](https://github.com/deven1003/investwise-ai-showcase) | Multi-agent investment research for Indian investors on live NSE/BSE, gold, silver & mutual fund data, with cited reports, portfolio analytics and a rebalancing planner | LangGraph · LangChain · Claude · TypeScript |
+| 🎙️ [**Meeting Intelligence Agent**](https://github.com/deven1003/meeting-intelligence-agent-showcase) | Live meeting notes and an AI interview assistant that prepares resume-based questions, rates answers with transcript evidence, and runs a voice bot that can conduct the interview in Google Meet | LangGraph · Claude · Whisper · FastAPI · Python |
 | 🛍️ [**ShopEasy Support Agent**](https://github.com/deven1003/shopeasy-support-agent) | Agentic customer support assistant with RAG, tool calling and human-in-the-loop refunds | LangGraph · LangChain · Claude · Python |
 | 📚 [**AWS AI Practitioner Study Vault**](https://github.com/deven1003/study-vault-aws-ai-practitioner) | Free AIF-C01 notes, cheat sheets and Bedrock labs, learning in public | AWS Bedrock · RAG |
 
@@ -45,7 +47,7 @@
 ## 🛠️ Tech Stack
 
 ### **Agentic AI & LLMs**
-`LangGraph` `LangChain` `Claude API` `OpenAI API` `MCP` `Tool Use / Function Calling` `Multi-Agent Systems` `RAG` `Prompt Engineering` `Embeddings` `Amazon Bedrock` `Amazon Q` `SageMaker` `Kendra`
+`LangGraph` `LangChain` `Claude API` `OpenAI API` `MCP` `Tool Use / Function Calling` `Multi-Agent Systems` `RAG` `Prompt Engineering` `Embeddings` `Speech-to-Text (Whisper)` `Voice AI` `Amazon Bedrock` `Amazon Q` `SageMaker` `Kendra`
 
 ### **Vector Search & Data**
 `pgvector` `Pinecone` `Amazon OpenSearch` `Apache Solr` `Elasticsearch` `Web Crawling` `Large-scale Data Pipelines`
