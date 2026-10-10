@@ -5,7 +5,7 @@
 <h3 align="center">☁️ 4× AWS Certified · 🪟 1× Microsoft Certified</h3>
 <h4 align="center">
   I build AI agents that reason, use tools and get real work done: LLMs + RAG + MCP on production cloud infrastructure.<br>
-  <a href="https://deven1003.github.io/portfolio_dk_devops_ai/" target="_blank">Portfolio</a> •
+  <a href="https://deven1003.github.io/portfolio/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/deven-kalathiya/" target="_blank">LinkedIn</a>
 </h4>
 
