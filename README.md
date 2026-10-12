@@ -85,20 +85,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deven1003&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deven1003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/deven-kalathiya/">
-    <img src="/gitartbydeven.svg">
-  </a>
-</div>
-
 ## 🤝 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/deven-kalathiya" target="blank">
