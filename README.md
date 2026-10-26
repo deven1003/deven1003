@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Deven%20Kalathiya&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
   <img src="./icon/hand.gif" width="28"> Hi, I'm <b>DEVEN KALATHIYA</b>
 </p>
 <h2 align="center">🤖 Agentic AI & DevOps Engineer · Cloud + GenAI</h2>
