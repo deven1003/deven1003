@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Deven%20Kalathiya&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<p align="center">
-  <img src="./icon/hand.gif" width="28"> Hi, I'm <b>DEVEN KALATHIYA</b>
-</p>
-<h2 align="center">🤖 Agentic AI & DevOps Engineer · Cloud + GenAI</h2>
 <h3 align="center">☁️ 4× AWS Certified · 🪟 1× Microsoft Certified</h3>
 <h4 align="center">
   I build AI agents that reason, use tools and get real work done: LLMs + RAG + MCP on production cloud infrastructure.<br>
@@ -96,7 +92,7 @@
   </a>
 </p>
 
-<p align="center"><img src="./icon/cat-typing.gif" width="32" align="center" /> <i>💬 Ask me about AI agents, LangGraph, MCP, RAG or shipping LLM apps to production.</i></p>
+<p align="center"><img src="./icon/cat-typing.gif" width="32" align="center" /> <i>The cat is not a mascot. The cat is the senior engineer. I just approve the PRs.</i></p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random dev quote" />
