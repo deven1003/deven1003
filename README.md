@@ -48,12 +48,43 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" /> Featured Agentic AI Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🧠 [**InvestWise AI**](https://github.com/deven1003/investwise-ai-showcase) | Multi-agent investment research for Indian investors on live NSE/BSE, gold, silver & mutual fund data, with cited reports, portfolio analytics and a rebalancing planner | LangGraph · LangChain · Claude · TypeScript |
-| 🎙️ [**Meeting Intelligence Agent**](https://github.com/deven1003/meeting-intelligence-agent-showcase) | Live meeting notes and an AI interview assistant that prepares resume-based questions, rates answers with transcript evidence, and runs a voice bot that can conduct the interview in Google Meet | LangGraph · Claude · Whisper · FastAPI · Python |
-| 🛍️ [**ShopEasy Support Agent**](https://github.com/deven1003/shopeasy-support-agent) | Agentic customer support assistant with RAG, tool calling and human-in-the-loop refunds | LangGraph · LangChain · Claude · Python |
-| 📚 [**AWS AI Practitioner Study Vault**](https://github.com/deven1003/study-vault-aws-ai-practitioner) | Free AIF-C01 notes, cheat sheets and Bedrock labs, learning in public | AWS Bedrock · RAG |
+<table align="center">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/deven1003/investwise-ai-showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deven1003&repo=investwise-ai-showcase&theme=radical&hide_border=true&description_lines_count=2" alt="InvestWise AI" /></a>
+      <br/><sub>Multi-agent investment research on live NSE/BSE, gold, silver &amp; mutual fund data, with cited reports, portfolio analytics and a rebalancing planner.</sub><br/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/deven1003/meeting-intelligence-agent-showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deven1003&repo=meeting-intelligence-agent-showcase&theme=radical&hide_border=true&description_lines_count=2" alt="Meeting Intelligence Agent" /></a>
+      <br/><sub>Live meeting notes and an AI interview assistant that prepares resume-based questions, rates answers with transcript evidence, and runs a voice bot that can conduct the interview in Google Meet.</sub><br/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/deven1003/shopeasy-support-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deven1003&repo=shopeasy-support-agent&theme=radical&hide_border=true&description_lines_count=2" alt="ShopEasy Support Agent" /></a>
+      <br/><sub>Agentic customer support assistant with RAG, tool calling and human-in-the-loop refunds.</sub><br/>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/deven1003/study-vault-aws-ai-practitioner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deven1003&repo=study-vault-aws-ai-practitioner&theme=radical&hide_border=true&description_lines_count=2" alt="AWS AI Practitioner Study Vault" /></a>
+      <br/><sub>Free AIF-C01 notes, cheat sheets and Bedrock labs, learning in public.</sub><br/>
+      <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/RAG-6C3EB8?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 <img src="./icon/rainbow-line.gif" width="100%" alt="" />
 
