@@ -51,7 +51,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/deven1003/investwise-ai-showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deven1003&repo=investwise-ai-showcase&theme=radical&hide_border=true&description_lines_count=2" alt="InvestWise AI" /></a>
+      <a href="https://github.com/deven1003/investwise-ai-showcase"><img src="https://socialify.git.ci/deven1003/investwise-ai-showcase/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="InvestWise AI" width="100%" /></a>
       <br/><br/><sub>Multi-agent investment research on live Indian market data, with cited reports and portfolio rebalancing.</sub><br/><br/>
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -59,7 +59,7 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/deven1003/meeting-intelligence-agent-showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deven1003&repo=meeting-intelligence-agent-showcase&theme=radical&hide_border=true&description_lines_count=2" alt="Meeting Intelligence Agent" /></a>
+      <a href="https://github.com/deven1003/meeting-intelligence-agent-showcase"><img src="https://socialify.git.ci/deven1003/meeting-intelligence-agent-showcase/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Meeting Intelligence Agent" width="100%" /></a>
       <br/><br/><sub>Live meeting notes and an AI interviewer that asks resume-based questions, scores answers and speaks in Google Meet.</sub><br/><br/>
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/deven1003/shopeasy-support-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deven1003&repo=shopeasy-support-agent&theme=radical&hide_border=true&description_lines_count=2" alt="ShopEasy Support Agent" /></a>
+      <a href="https://github.com/deven1003/shopeasy-support-agent"><img src="https://socialify.git.ci/deven1003/shopeasy-support-agent/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="ShopEasy Support Agent" width="100%" /></a>
       <br/><br/><sub>Agentic customer support assistant with RAG, tool calling and human-in-the-loop refunds.</sub><br/><br/>
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -78,7 +78,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/deven1003/study-vault-aws-ai-practitioner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deven1003&repo=study-vault-aws-ai-practitioner&theme=radical&hide_border=true&description_lines_count=2" alt="AWS AI Practitioner Study Vault" /></a>
+      <a href="https://github.com/deven1003/study-vault-aws-ai-practitioner"><img src="https://socialify.git.ci/deven1003/study-vault-aws-ai-practitioner/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="AWS AI Practitioner Study Vault" width="100%" /></a>
       <br/><br/><sub>Free AIF-C01 notes, cheat sheets and Bedrock labs, learning in public.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
       <img src="https://img.shields.io/badge/RAG-6C3EB8?style=flat-square" />
