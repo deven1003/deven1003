@@ -93,7 +93,11 @@
   </a>
 </p>
 
-<p align="center"><img src="./icon/cat-typing.gif" width="32" align="center" /> <i>AI can type faster than any of us, but it still takes a human to know what is worth typing.</i></p>
+<p align="center">
+  <img src="./icon/cat-typing.gif" width="48" /><br>
+  <b>AI:</b> Hey cat, what are you waiting for? I've already calculated every move.<br>
+  <b>Cat:</b> <i>"A good player makes the move when it's time for checkmate."</i>
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random dev quote" />
