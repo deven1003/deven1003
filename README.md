@@ -6,7 +6,7 @@
   <a href="https://github.com/deven1003"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Agentic+AI+%26+DevOps+Engineer;%E2%98%81%EF%B8%8F+Cloud+%2B+GenAI;Building+agents+with+LangGraph%2C+MCP+%26+Claude" alt="Agentic AI & DevOps Engineer · Cloud + GenAI" /></a>
 </p>
 
-<h3 align="center"><a href="#-certifications">☁️ 4× AWS Certified · 🪟 1× Microsoft Certified</a></h3>
+<h3 align="center"><a href="#certifications">☁️ 4× AWS Certified · 🪟 1× Microsoft Certified</a></h3>
 <h4 align="center">I build AI agents that reason, use tools and get real work done: LLMs + RAG + MCP on production cloud infrastructure.</h4>
 
 <p align="center">
@@ -18,16 +18,21 @@
   <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
-## 🧠 About Me
+<img src="./icon/rainbow-line.gif" width="100%" alt="" />
 
-- 🤖 **Agentic AI developer**: I design multi-agent systems with **LangGraph, LangChain and Claude**, covering tool use, human-in-the-loop flows, planning and stateful workflows.
-- 🧩 I connect agents to real systems with **MCP (Model Context Protocol)**: infrastructure, monitoring and operational tooling.
-- 🔎 I build **RAG and semantic search** at scale, including an embeddings + **pgvector** search over millions of podcast episodes.
-- 🎙️ I build **voice AI**: local **Whisper** speech-to-text and an autonomous interview bot that speaks in live Google Meet calls.
-- ☁️ I have a strong **Cloud & DevOps** background (AWS, Docker, Kubernetes, Terraform, CI/CD), so the agents I build actually ship.
-- 💼 2+ years at **Feedspot** shipping production integrations with **Claude, OpenAI, Amazon Bedrock and Amazon Q**, plus AI-assisted data pipelines that run about **30% more efficiently**.
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" alt="🧠" width="32" /> About Me
 
-## 🎓 Certifications
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="22" align="center" /> **Agentic AI developer**: I design multi-agent systems with **LangGraph, LangChain and Claude**, covering tool use, human-in-the-loop flows, planning and stateful workflows.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50c/512.gif" alt="🔌" width="22" align="center" /> I connect agents to real systems with **MCP (Model Context Protocol)**: infrastructure, monitoring and operational tooling.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f50e/512.gif" alt="🔎" width="22" align="center" /> I build **RAG and semantic search** at scale, including an embeddings + **pgvector** search over millions of podcast episodes.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5e3_fe0f/512.gif" alt="🗣️" width="22" align="center" /> I build **voice AI**: local **Whisper** speech-to-text and an autonomous interview bot that speaks in live Google Meet calls.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601_fe0f/512.gif" alt="☁️" width="22" align="center" /> I have a strong **Cloud & DevOps** background (AWS, Docker, Kubernetes, Terraform, CI/CD), so the agents I build actually ship.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="22" align="center" /> 2+ years at **Feedspot** shipping production integrations with **Claude, OpenAI, Amazon Bedrock and Amazon Q**, plus AI-assisted data pipelines that run about **30% more efficiently**.
+
+<img src="./icon/rainbow-line.gif" width="100%" alt="" />
+
+<a name="certifications"></a>
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" /> Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/6923b209-1b43-47dc-a39d-4ca6ff3a686a/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified AI Practitioner" /></a>
@@ -39,7 +44,9 @@
 
 <p align="center"><i>Click any badge to verify the credential.</i></p>
 
-## 🚀 Featured Agentic AI Projects
+<img src="./icon/rainbow-line.gif" width="100%" alt="" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" /> Featured Agentic AI Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -48,7 +55,9 @@
 | 🛍️ [**ShopEasy Support Agent**](https://github.com/deven1003/shopeasy-support-agent) | Agentic customer support assistant with RAG, tool calling and human-in-the-loop refunds | LangGraph · LangChain · Claude · Python |
 | 📚 [**AWS AI Practitioner Study Vault**](https://github.com/deven1003/study-vault-aws-ai-practitioner) | Free AIF-C01 notes, cheat sheets and Bedrock labs, learning in public | AWS Bedrock · RAG |
 
-## 🛠️ Tech Stack
+<img src="./icon/rainbow-line.gif" width="100%" alt="" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠️" width="32" /> Tech Stack
 
 ### Agentic AI & LLMs
 <p align="center">
@@ -112,12 +121,16 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
-## 🤝 Connect with me
+<img src="./icon/rainbow-line.gif" width="100%" alt="" />
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" /> Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/deven-kalathiya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Deven_Kalathiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://deven1003.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-deven1003.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/deven1003" target="_blank"><img src="https://img.shields.io/badge/GitHub-deven1003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<img src="./icon/rainbow-line.gif" width="100%" alt="" />
 
 <p align="center">
   <img src="./icon/cat-typing.gif" width="48" /><br>
