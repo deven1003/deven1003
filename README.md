@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Deven%20Kalathiya&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h2 align="center">🤖 Agentic AI & DevOps Engineer · Cloud + GenAI</h2>
+<p align="center">
+  <a href="https://github.com/deven1003"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Agentic+AI+%26+DevOps+Engineer;%E2%98%81%EF%B8%8F+Cloud+%2B+GenAI;Building+agents+with+LangGraph%2C+MCP+%26+Claude" alt="Agentic AI & DevOps Engineer · Cloud + GenAI" /></a>
+</p>
 <h3 align="center">☁️ 4× AWS Certified · 🪟 1× Microsoft Certified</h3>
 <h4 align="center">
   I build AI agents that reason, use tools and get real work done: LLMs + RAG + MCP on production cloud infrastructure.<br>
@@ -19,7 +21,6 @@
   <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
----
 
 ## 🧠 About Me
 
@@ -88,9 +89,9 @@
 
 ## 🤝 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/deven-kalathiya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deven-kalathiya" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/deven-kalathiya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Deven_Kalathiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://deven1003.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-deven1003.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/deven1003" target="_blank"><img src="https://img.shields.io/badge/GitHub-deven1003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
