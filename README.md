@@ -5,12 +5,13 @@
 <p align="center">
   <a href="https://github.com/deven1003"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+Agentic+AI+%26+DevOps+Engineer;%E2%98%81%EF%B8%8F+Cloud+%2B+GenAI;Building+agents+with+LangGraph%2C+MCP+%26+Claude" alt="Agentic AI & DevOps Engineer · Cloud + GenAI" /></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deven1003&color=36bcf7&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+</p>
+
 <h3 align="center">☁️ 4× AWS Certified · 🪟 1× Microsoft Certified</h3>
-<h4 align="center">
-  I build AI agents that reason, use tools and get real work done: LLMs + RAG + MCP on production cloud infrastructure.<br>
-  <a href="https://deven1003.github.io/portfolio/" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/deven-kalathiya/" target="_blank">LinkedIn</a>
-</h4>
+<h4 align="center">I build AI agents that reason, use tools and get real work done: LLMs + RAG + MCP on production cloud infrastructure.</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -21,19 +22,14 @@
   <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
-
 ## 🧠 About Me
 
-- 🤖 **Agentic AI developer**: I design multi-agent systems with **LangGraph, LangChain and Claude**, covering tool use / function calling, human-in-the-loop flows, planning and stateful workflows.
+- 🤖 **Agentic AI developer**: I design multi-agent systems with **LangGraph, LangChain and Claude**, covering tool use, human-in-the-loop flows, planning and stateful workflows.
 - 🧩 I connect agents to real systems with **MCP (Model Context Protocol)**: infrastructure, monitoring and operational tooling.
-- 🔎 I build **RAG and semantic search** at scale. One example is an embeddings + **pgvector** search over millions of podcast episodes.
+- 🔎 I build **RAG and semantic search** at scale, including an embeddings + **pgvector** search over millions of podcast episodes.
 - 🎙️ I build **voice AI**: local **Whisper** speech-to-text and an autonomous interview bot that speaks in live Google Meet calls.
-- 🔗 I've shipped production integrations with **Anthropic Claude API, OpenAI API & Embeddings, Amazon Bedrock and Amazon Q**.
-- ⚡ AI-assisted automation of data pipelines made processing about **30% more efficient**.
 - ☁️ I have a strong **Cloud & DevOps** background (AWS, Docker, Kubernetes, Terraform, CI/CD), so the agents I build actually ship.
-- 💼 I have 2+ years at **Feedspot** across AI/ML, Generative AI, automation and backend engineering.
-
----
+- 💼 2+ years at **Feedspot** shipping production integrations with **Claude, OpenAI, Amazon Bedrock and Amazon Q**, plus AI-assisted data pipelines that run about **30% more efficiently**.
 
 ## 🚀 Featured Agentic AI Projects
 
@@ -44,47 +40,56 @@
 | 🛍️ [**ShopEasy Support Agent**](https://github.com/deven1003/shopeasy-support-agent) | Agentic customer support assistant with RAG, tool calling and human-in-the-loop refunds | LangGraph · LangChain · Claude · Python |
 | 📚 [**AWS AI Practitioner Study Vault**](https://github.com/deven1003/study-vault-aws-ai-practitioner) | Free AIF-C01 notes, cheat sheets and Bedrock labs, learning in public | AWS Bedrock · RAG |
 
----
-
 ## 🛠️ Tech Stack
 
-### **Agentic AI & LLMs**
-`LangGraph` `LangChain` `Claude API` `OpenAI API` `MCP` `Tool Use / Function Calling` `Multi-Agent Systems` `RAG` `Prompt Engineering` `Embeddings` `Speech-to-Text (Whisper)` `Voice AI` `Amazon Bedrock` `Amazon Q` `SageMaker` `Kendra`
-
-### **Vector Search & Data**
-`pgvector` `Pinecone` `Amazon OpenSearch` `Apache Solr` `Elasticsearch` `Web Crawling` `Large-scale Data Pipelines`
-
-### **Languages & Frameworks**
+### Agentic AI & LLMs
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Q-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-6C3EB8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool_Use_%2F_Function_Calling-6C3EB8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-6C3EB8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-6C3EB8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6C3EB8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Voice_AI-6C3EB8?style=for-the-badge" />
 </p>
 
-### **Cloud & DevOps**
+### Vector Search & Data
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-1C1C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amazon_OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Crawling-2F855A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Large--scale_Data_Pipelines-2F855A?style=for-the-badge" />
 </p>
 
-### **Databases & Monitoring**
+### Languages & Frameworks
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,django,nodejs,react" alt="Python, TypeScript, JavaScript, FastAPI, Django, Node.js, React" /></a>
+</p>
+
+### Cloud & DevOps
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,jenkins,githubactions,ansible" alt="AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Ansible" /></a>
+</p>
+
+### Databases & Monitoring
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,elasticsearch" alt="PostgreSQL, MongoDB, Redis, Prometheus, Grafana, Elasticsearch" /></a>
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deven1003&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=deven1003&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## 🤝 Connect with me
@@ -102,4 +107,8 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random dev quote" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 </p>
