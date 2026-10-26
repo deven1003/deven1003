@@ -93,7 +93,7 @@
   </a>
 </p>
 
-<p align="center"><img src="./icon/cat-typing.gif" width="32" align="center" /> <i>The cat is not a mascot. The cat is the senior engineer. I just approve the PRs.</i></p>
+<p align="center"><img src="./icon/cat-typing.gif" width="32" align="center" /> <i>AI can type faster than any of us, but it still takes a human to know what is worth typing.</i></p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random dev quote" />
