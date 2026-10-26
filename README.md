@@ -92,7 +92,7 @@
   </a>
 </p>
 
-<p align="center"><i>💬 Ask me about AI agents, LangGraph, MCP, RAG or shipping LLM apps to production.</i></p>
+<p align="center"><img src="./icon/cat-typing.gif" width="32" align="center" /> <i>💬 Ask me about AI agents, LangGraph, MCP, RAG or shipping LLM apps to production.</i></p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random dev quote" />
