@@ -95,5 +95,5 @@
 <p align="center"><i>💬 Ask me about AI agents, LangGraph, MCP, RAG or shipping LLM apps to production.</i></p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quotesUrl=https://github.com/deven1003/deven1003/blob/main/quotes.json" alt="Random dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random dev quote" />
 </p>
